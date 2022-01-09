@@ -1,6 +1,7 @@
 # SoftwareArhitecture
 Need a personal guide in Baku? It couldn't be easier - use your phone.
 Discover new places and enjoy your stay in this wonderful city.
+
 ![photo_2020-11-06_18-06-55](https://user-images.githubusercontent.com/49874037/98364574-3815d600-205b-11eb-83e7-d140d04d3db0.jpg)
 ![photo_2020-11-06_18-07-05](https://user-images.githubusercontent.com/49874037/98364585-3ea44d80-205b-11eb-9d55-dbb62a2b3396.jpg)
 ![photo_2020-11-06_18-07-06](https://user-images.githubusercontent.com/49874037/98364597-4532c500-205b-11eb-88c8-dc201d135a1e.jpg)
